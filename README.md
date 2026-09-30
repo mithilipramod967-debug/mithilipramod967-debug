@@ -15,7 +15,6 @@ Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 📌 Projects
 
 🤝 Connect with me
-
-LinkedIn
+LinkedIn- https://www.linkedin.com/in/mithili-pramod-5b3824290/
 
 Open to internships, projects, and conversations in AI security, cybersecurity, and ML.
