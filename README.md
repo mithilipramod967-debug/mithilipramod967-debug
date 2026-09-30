@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Mithili 👋
 
-<!--
-**mithilipramod967-debug/mithilipramod967-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student at Symbiosis Institute of Technology, Pune · building toward a career in AI Security
 
-Here are some ideas to get you started:
+I'm interested in how AI systems can be attacked and manipulated, and in building defenses that hold up in the real world. My foundation is in systems programming, with C++ as my primary language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Current focus
+Cybersecurity fundamentals: networking, Linux, web application security
+How LLM-based applications work, and how they break (prompt injection, adversarial inputs)
+Building projects that connect security and AI
+🛠️ Languages & tools
+
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+📌 Projects
+
+🤝 Connect with me
+
+LinkedIn
+
+Open to internships, projects, and conversations in AI security, cybersecurity, and ML.
